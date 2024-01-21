@@ -1,0 +1,26 @@
+body{
+  font-family: "Arial", "Meiryo", sans-serif;
+}
+body{
+  font-size: 20px;
+  text-align: center;
+}
+/* 太字 */
+#basic p{
+  font-weight: bold;
+}
+/* 文字サイズ2倍、影、下線、行間1.2*/
+h1{
+  font-family: 'Josefin Sans', サンセリフ体;
+  font-size: 2em;
+  text-shadow: 2px 2px 4px  gray;
+  border-bottom:solid 3px rgb(115, 115, 114);
+  letter-spacing: 1.2em;
+}
+/* カラー指定 */
+.sky{
+  color:skyblue;
+}
+.pink{
+  color:rgb(255, 192, 203);
+}
